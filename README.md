@@ -38,14 +38,14 @@ Empathetic Leadership · Team Coordination · Documentation · User-Centered Des
 
 ## 🚀 Current Projects
 
-### 🧠 Online Counseling School Homepage  
-Leading a 10-member team to build a secure, mobile-friendly platform focused on mental health support.  
+### 🧠 Online Counseling School Project 
+ building a secure, mobile-friendly platform focused on mental health support.  
 I design wireframes in Figma, lead frontend development, and ensure accessibility and emotional impact.
 
 ### 💇‍♀️ Hair by Isentle  
 A sleek online showcase and booking platform for a local stylist who specializes in premium weaves and luxury hair services. Built with mobile-first design, clean branding, and a focus on elegance and accessibility.
 
-### 🎂 Online Cake Shop  
+### 🎂 Online Cake Shop by Asisipho Dastile
 Helping a local entrepreneur launch a cake ordering site with gallery features and responsive layout.
 
 ### 🧑‍💼 Digitizing Local Businesses  
