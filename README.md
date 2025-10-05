@@ -90,7 +90,4 @@ I believe in **building with purpose**, not just pushing code.
 
 ## 🙏
 
-Shout-out to my brother **Luxolo Gqadu** for his support and guidance — your input helps shape my path and polish every project.
-
----
 
