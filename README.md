@@ -1,7 +1,7 @@
-# 👋 Siyamthanda Ndzipha (Edison)
+# 👋Hi i'm Siyamthanda Ndzipha (Edison)
 
 ## 🧑‍💻 Frontend Developer & UI/UX Designer  
-*Based in South Africa | DUT Student | Community Builder*
+*Currently based in Durban | DUT Student | Community Builder*
 
 ---
 
@@ -13,7 +13,7 @@ I'm a passionate **Frontend Developer** and **UI/UX Designer** currently studyin
 - **Clean designs** powered by **Figma**  
 - **User-centered interfaces** that solve real-world problems
 
-I thrive in collaborative environments, leading large teams, documenting group projects, and crafting digital spaces that feel safe, inclusive, and purposeful.
+I thrive in collaborative environments, documenting group projects, and crafting digital spaces that feel safe, inclusive, and purposeful.
 
 ---
 
@@ -77,15 +77,8 @@ Creating clean, accessible websites that reflect the brand and values of small b
 
 ## 🤝 Let’s Connect
 
-I love collaborating on projects that matter — especially those focused on:
-
-- 🧠 Mental Health  
-- 🎓 Education  
-- 🌍 Community Upliftment  
-
-Reach out for  teamwork, or just to talk tech and impact.  
-I believe in **building with purpose**, not just pushing code.
-
+I'm still learning every day. If you're down to share knowledge, grow together, or make an impact through tech, let's connect! 
+https://www.linkedin.com/in/siyamthanda-ndzipha-b8364a299/
 ---
 
 ## 🙏
